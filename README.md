@@ -1,3 +1,10 @@
+# learning-python 
+
+
+Expanding repo to generic learning-python scripts
+* initial include the python 30-day
+* will eventually link in useful and interesting scripts from other personal repos
+
 # brilliant.org Programming-with-Python
 
 Intro: 
